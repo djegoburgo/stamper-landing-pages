@@ -25,7 +25,7 @@ p {
   line-height: 1.5;
 }
 a {
-  color: #b98d36;
+  color: white;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -419,7 +419,7 @@ select {
 }
 .hero-section .promo-line {
   font-weight: bold;
-  margin-top: 15px;
+  margin-top: 55px;
   margin-bottom: 30px;
   font-size: 28px;
 }
@@ -1134,6 +1134,12 @@ select {
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
+}
+
+/* ======= bouton dowload ======= */
+
+#boutondowload {
+  margin-top: 3em;
 }
 
 
